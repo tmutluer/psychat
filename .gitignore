@@ -1,0 +1,6 @@
+venv/
+.idea/
+notebooks/
+psychat.egg-info/
+
+
